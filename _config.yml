@@ -13,7 +13,7 @@ author: # change following line to your infomation.
   name: Joohong Lee  # Be used at blog posts' author.
   first_name: Joohong  # Be used at index page about me section.
   last_name: Lee  # Be used at index page about me section.
-  avatar: /static/assets/img/landing/avatar.jpg  # upload your avatar at directory and edit it.
+  avatar: https://avatars0.githubusercontent.com/u/15166794?s=460&v=4  # upload your avatar at directory and edit it.
   github_username: roomylee  # Leave blank if you don't have now
   linkedin_id: roomylee # Leave blank if you don't have now
   facebook_username: roomylee  # Leave blank if you don't have now
