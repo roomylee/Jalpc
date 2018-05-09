@@ -1,29 +1,71 @@
 # careers section data
 # if you don't have language feature(language.yml is empty), ignore "i18n" items
 - name:
-    detail: Company A
-    i18n: company_a
+    detail: AI Lab @ Hanyang University
+    i18n: software_maestro
   desc:
-    detail: I worked at Company A ...
+    detail: AI Research
     i18n: company_a_desc
   date:
-    detail: Apr. 2016
+    detail: Dec. 2015
     i18n: company_a_date
   job:
-    detail: CTO
+    detail: AI / NLP Researcher
     i18n: company_a_job
   icon: fa-plus-square
 
 - name:
-    detail: Company B
-    i18n: company_b
+    detail: Software Maestro
+    i18n: software_maestro
   desc:
-    detail: I worked at Company B ...
+    detail: I worked at Company A ...
+    i18n: company_a_desc
+  date:
+    detail: Jul. 2016 - Nov. 2016
+    i18n: company_a_date
+  job:
+    detail: Software Developer
+    i18n: company_a_job
+  icon: fa-plus-square
+
+- name:
+    detail: Academy of Olympiad in Informatics
+    i18n: aloha
+  desc:
+    detail: Teach students
+    i18n: company_a_desc
+  date:
+    detail: Dec. 2015 - Aug. 2016
+    i18n: company_a_date
+  job:
+    detail: Teacher
+    i18n: company_a_job
+  icon: fa-plus-square
+
+- name:
+    detail: ALOHA
+    i18n: aloha
+  desc:
+    detail: Algorithm Research team of Hanyang University
+    i18n: company_a_desc
+  date:
+    detail: Nov. 2014 - Nov. 2015
+    i18n: company_a_date
+  job:
+    detail: President
+    i18n: company_a_job
+  icon: fa-plus-square
+
+- name:
+    detail: Department of Computer Science & Engineering @ Hanyang University
+    i18n: hanyang_university
+  desc:
+    detail: computer science & engineering
     i18n: company_b_desc
   date:
-    detail: Jun. 2015
+    detail: Mar. 2013 - Feb. 2017
     i18n: company_b_date
   job:
-    detail: Full Stack Developer
+    detail: B.S student
     i18n: company_b_job
   icon: fa-plus-square
