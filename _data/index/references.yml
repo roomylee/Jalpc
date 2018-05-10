@@ -1,12 +1,18 @@
 # links section data
-- last_name: Donate
-  first_name: Jalpc
-  desc: Support Jalpc
-  website: http://www.jarrekk.com/donate/
-  email: me@jarrekk.com
+- last_name: Yongsuk
+  first_name: Choi
+  desc: Professor
+  website: http://ai.hanyang.ac.kr/
+  email: cys@hanyang.ac.kr
 
-- last_name: LN
-  first_name: FN
-  desc: COO
-  website: https://github.com
-  email: coo@google.com
+- last_name: ALOHA
+  first_name: 
+  desc: Algorithm Research team of Hanyang University
+  website: https://www.facebook.com/HYUALOHA/
+  email: hyualoha@gmail.com
+
+- last_name: AI Lab
+  first_name: at Hanyang Univ.
+  desc: Laboratory
+  website: http://ai.hanyang.ac.kr/
+  email: 
