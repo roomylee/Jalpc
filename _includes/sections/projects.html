@@ -35,6 +35,11 @@
                       <a target="_blank" style="width: 65px;" href="https://github.com/{{ project.gh_user }}/{{ project.repo }}/network" class="btn btn-white btn-xs fork"><i class="fa fa-code-fork"></i> ...</a>
                       <div style="height: 10px;"></div>
                   </div>
+                  {% else %}
+                  <div class="ghbtn">
+                      <a target="_blank" style="width: 80px; margin-left: 25px;" href={{ project.url}} class="btn btn-white btn-xs link"><i class="fa fa-link"></i> link</a>&emsp;&emsp;
+                      <div style="height: 10px;"></div>
+                  </div>
                   {% endif %}
               </div>
           </div>
