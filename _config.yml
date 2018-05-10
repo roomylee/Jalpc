@@ -6,7 +6,7 @@ description: Joohong's blog, use Jekyll and github pages.
 keywords: AI,NLP,Tensorflow
 baseurl: # if you have suburl as homepage like '/homepage', please change it to '/homepage' and your repo's name should be 'homepage'
 url: https:/roomylee.github.io  # url should be 'http://<github_username>.github.io/homepage' as before
-img_path: /static/assets/img/blog  # url should be '/homepage/static/assets/img/blog' as before
+img_path: /static/assets/img/  # url should be '/homepage/static/assets/img/blog' as before
 
 # author -- index page "about me" section
 author: # change following line to your infomation.

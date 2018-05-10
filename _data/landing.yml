@@ -19,10 +19,10 @@
   css: team
 
 - id: papers
-  i18n: nav.projects
-  name: Projects
-  tpl: projects.html
-  css: project
+  i18n: nav.papers
+  name: Papers
+  tpl: papers.html
+  css: team
 
 - id: projects
   i18n: nav.projects
