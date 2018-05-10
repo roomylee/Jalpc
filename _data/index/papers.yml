@@ -1,0 +1,56 @@
+# projects section data
+# If you don't have language feature(language.yml is empty), ignore "i18n" items
+# Suggest projects' img be located at '/static/assets/img/landing', and edit following img items.
+- name: RCNN for Text Classification
+  i18n: rcnn_text
+  gh_user: roomylee
+  repo: rcnn-text-classification
+  img: /static/assets/img/landing/tf.png
+  desc: This project is other's project. I use another request to get repo's information.
+
+- name: RNN for Text Classification
+  i18n: rnn_text
+  gh_user: roomylee
+  repo: rnn-text-classification-tf
+  img: /static/assets/img/landing/jekyll.png
+  desc: This project is other's project. I use another request to get repo's information.
+
+- name: CNN for Relation Extraction
+  i18n: cnn_re
+  gh_user: roomylee
+  repo: cnn-relation-extraction
+  img: /static/assets/img/landing/tf.png
+  desc: This project is other's project. I use another request to get repo's information.
+
+- name: Literature Mining of Bacteria-Disease Interaction
+  i18n: literature_mining
+  gh_user: roomylee
+  repo: bim-miner
+  img: /static/assets/img/landing/java.png
+  desc: This project is other's project. I use another request to get repo's information.
+
+- name: Politics based SNS Text Mining
+  i18n: politics_mining
+  url: http://ai.hanyang.ac.kr:50000/
+  img: /static/assets/img/landing/java.png
+  desc: This project is other's project. I use another request to get repo's information.
+
+- name: TPE Search for Relation Extraction
+  i18n: tpe
+  gh_user: roomylee
+  repo: tpe-search-for-relation-extraction
+  img: /static/assets/img/landing/java.png
+  desc: This project is other's project. I use another request to get repo's information.
+
+- name: Gaemigo
+  i18n: gaemigo
+  url: https://www.slideshare.net/roomylee/gaemigo
+  img: /static/assets/img/landing/python.png
+  desc: This project is other's project. I use another request to get repo's information.
+
+- name: SNS Mining & spatio-temporal Visualization
+  i18n: sns_mining
+  gh_user: roomylee
+  repo: sns-mining
+  img: /static/assets/img/landing/twitter.png
+  desc: This project is other's project. I use another request to get repo's information.
