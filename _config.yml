@@ -2,7 +2,7 @@
 
 # Website settings
 title: Joohong's Webpage
-description: Joohong's blog, use Jekyll and github pages.
+description: Joohong's webpage, use Jekyll and github pages.
 keywords: AI,NLP,Tensorflow
 baseurl: # if you have suburl as homepage like '/homepage', please change it to '/homepage' and your repo's name should be 'homepage'
 url: https:/roomylee.github.io  # url should be 'http://<github_username>.github.io/homepage' as before
@@ -13,6 +13,7 @@ author: # change following line to your infomation.
   name: Joohong Lee  # Be used at blog posts' author.
   first_name: Joohong  # Be used at index page about me section.
   last_name: Lee  # Be used at index page about me section.
+  nick_name: roomylee
   avatar: https://avatars0.githubusercontent.com/u/15166794?s=460&v=4  # upload your avatar at directory and edit it.
   github_username: roomylee  # Leave blank if you don't have now
   linkedin_id: roomylee # Leave blank if you don't have now
