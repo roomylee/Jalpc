@@ -30,10 +30,10 @@
   tpl: projects.html
   css: project
 
-- id: links
-  i18n: nav.link
-  name: Links
-  tpl: links.html
+- id: references
+  i18n: nav.references
+  name: References
+  tpl: references.html
   css: contact
 
 
