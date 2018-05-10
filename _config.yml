@@ -20,7 +20,7 @@ author: # change following line to your infomation.
   facebook_username: roomylee  # Leave blank if you don't have now
   twitter_username: # Leave blank if you don't have now
   email: roomylee@naver.com  # Leave blank if you don't have now
-  cv: http://cv.jarrekk.com  # An online CV can be printed as PDF, leave blank if you don't have now
+  cv: http://roomylee.github.io  # An online CV can be printed as PDF, leave blank if you don't have now
   # skill icons are on avatar's left and right side. Reference urls are http://fontawesome.io/ and http://fizzed.com/oss/font-mfizz
   skill_icon1:
     - name: fa fa-graduation-cap
@@ -28,8 +28,8 @@ author: # change following line to your infomation.
   skill_icon2:
     - name: icon-python
     - name: fa fa-bar-chart
-  desc: Interested in NLP & Relation Extraction.  # Describe yourself.
-
+  desc: M.Sc Student @ AI Lab, Hanyang University, Korea
+  desc2: Interested in Relation Extraction & Natural Language Understanding  # Describe yourself.
 # comment
 disqus: # if you wanna comment feature, go to https://disqus.com/ to get your configuration; if not, comment following two lines.
   name: jalpc
