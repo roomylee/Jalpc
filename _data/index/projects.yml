@@ -6,7 +6,7 @@
   gh_user: roomylee
   repo: rcnn-text-classification
   img: /static/assets/img/landing/tf.png
-  desc: This project is my project. I use javescript to get repo's information all my repos have only one request.
+  desc: This project is other's project. I use another request to get repo's information.
 
 - name: RNN for Text Classification
   i18n: rnn_text
@@ -22,30 +22,35 @@
   img: /static/assets/img/landing/tf.png
   desc: This project is other's project. I use another request to get repo's information.
 
+- name: Literature Mining of Bacteria-Disease Interaction
+  i18n: literature_mining
+  gh_user: roomylee
+  repo: bim-miner
+  img: /static/assets/img/landing/java.png
+  desc: This project is other's project. I use another request to get repo's information.
+
+- name: Politics based SNS Text Mining
+  i18n: politics_mining
+  url: http://ai.hanyang.ac.kr:50000/
+  img: /static/assets/img/landing/java.png
+  desc: This project is other's project. I use another request to get repo's information.
+
+- name: TPE Search for Relation Extraction
+  i18n: tpe
+  gh_user: roomylee
+  repo: tpe-search-for-relation-extraction
+  img: /static/assets/img/landing/java.png
+  desc: This project is other's project. I use another request to get repo's information.
+
 - name: Gaemigo
-  i18n: cnn_re
-  gh_user: roomylee
-  repo: cnn-relation-extraction
-  img: /static/assets/img/landing/tf.png
+  i18n: gaemigo
+  url: https://www.slideshare.net/roomylee/gaemigo
+  img: /static/assets/img/landing/python.png
   desc: This project is other's project. I use another request to get repo's information.
 
-- name: CNN for Relation Extraction
-  i18n: cnn_re
+- name: SNS Mining & spatio-temporal Visualization
+  i18n: sns_mining
   gh_user: roomylee
-  repo: cnn-relation-extraction
-  img: /static/assets/img/landing/tf.png
+  repo: sns-mining
+  img: /static/assets/img/landing/twitter.png
   desc: This project is other's project. I use another request to get repo's information.
-
-- name: CNN for Relation Extraction
-  i18n: cnn_re
-  gh_user: roomylee
-  repo: cnn-relation-extraction
-  img: /static/assets/img/landing/tf.png
-  desc: This project is other's project. I use another request to get repo's information.
-
-
-- name: Google
-  i18n: google
-  url: https://google.com
-  img: /static/assets/img/landing/google.png
-  desc: This is another project.
