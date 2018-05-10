@@ -3,14 +3,13 @@
 #
 # Images are expected to be located in `static/assets/img/`.
 
-- src: landing/santorini.jpg
+- src: landing/banner/santo.jpg
+  title: 2 banner image
+  
+- src: landing/banner/arsenal.jpg
   title: 1 banner image
 
-- src: landing/santorini2.jpg
-  title: 2 banner image
-
-- src: landing/santorini3.jpg
+- src: landing/banner/math.jpg
   title: 3 banner image
 
-- src: landing/santorini4.jpeg
-  title: 3 banner image
+
