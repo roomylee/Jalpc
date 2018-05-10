@@ -32,7 +32,7 @@
 - name: Politics based SNS Text Mining
   i18n: politics_mining
   url: http://ai.hanyang.ac.kr:50000/
-  img: /static/assets/img/landing/java.png
+  img: /static/assets/img/landing/flask.png
   desc: This project is other's project. I use another request to get repo's information.
 
 - name: TPE Search for Relation Extraction
