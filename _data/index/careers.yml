@@ -1,13 +1,42 @@
 # careers section data
 # if you don't have language feature(language.yml is empty), ignore "i18n" items
+
 - name:
-    detail: AI Lab @ Hanyang University
-    i18n: software_maestro
+    detail: Started M.Sc
+    i18n: ai_lab
   desc:
-    detail: AI Research
+    detail: I started my M.Sc in Artificial Intelligence at the Hanyang University, Seoul, Korea. I'll be working on Text Mining & Relation Extraction.
     i18n: company_a_desc
   date:
-    detail: Dec. 2015
+    detail: Mar. 2017 - Present
+    i18n: company_a_date
+  job:
+    detail: M.Sc Student
+    i18n: company_a_job
+  icon: fa-plus-square
+
+- name:
+    detail: Bachelor Degree
+    i18n: hanyang_university
+  desc:
+    detail: I received the B.Sc in Computer Science & Engineering at Hanyang University.
+    i18n: company_b_desc
+  date:
+    detail: Feb. 2017
+    i18n: company_b_date
+  job:
+    detail: Graduation
+    i18n: company_b_job
+  icon: fa-plus-square
+
+- name:
+    detail: AI Lab @ Hanyang University
+    i18n: ai_lab
+  desc:
+    detail: I started researching Artificial Intelligence and Natural Language Processing in the AI Lab at Hnaynag University.
+    i18n: company_a_desc
+  date:
+    detail: Dec. 2015 - Present
     i18n: company_a_date
   job:
     detail: AI / NLP Researcher
@@ -18,7 +47,7 @@
     detail: Software Maestro
     i18n: software_maestro
   desc:
-    detail: I worked at Company A ...
+    detail: I worked on software development through a program called Software Maestro for the cultivation of start-up talents.
     i18n: company_a_desc
   date:
     detail: Jul. 2016 - Nov. 2016
@@ -32,7 +61,7 @@
     detail: Academy of Olympiad in Informatics
     i18n: aloha
   desc:
-    detail: Teach students
+    detail: I taught students preparing Olympiads of Informatics on topics such as data structures, algorithms, problem solving strategies, and object oriented programming in the Myung-Moon Olympiad Academy located in Jamsil, Seoul.
     i18n: company_a_desc
   date:
     detail: Dec. 2015 - Aug. 2016
@@ -46,7 +75,7 @@
     detail: ALOHA
     i18n: aloha
   desc:
-    detail: Algorithm Research team of Hanyang University
+    detail: ALOHA (Algorithm Research team of Hanyang University) is a club that studies algorithms & problem solving strategies and prepares programming competitions such as ACM-ICPC, Google Codejam and Facebook Hackercup. I have led the club as president for 1 year out of 4 years, I have been active.
     i18n: company_a_desc
   date:
     detail: Nov. 2014 - Nov. 2015
@@ -54,18 +83,4 @@
   job:
     detail: President
     i18n: company_a_job
-  icon: fa-plus-square
-
-- name:
-    detail: Department of Computer Science & Engineering @ Hanyang University
-    i18n: hanyang_university
-  desc:
-    detail: computer science & engineering
-    i18n: company_b_desc
-  date:
-    detail: Mar. 2013 - Feb. 2017
-    i18n: company_b_date
-  job:
-    detail: B.S student
-    i18n: company_b_job
   icon: fa-plus-square
