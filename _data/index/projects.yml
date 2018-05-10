@@ -6,51 +6,50 @@
   gh_user: roomylee
   repo: rcnn-text-classification
   img: /static/assets/img/landing/tf.png
-  desc: This project is other's project. I use another request to get repo's information.
+  desc: Tensorflow implementation of Recurrent Convolutional Neural Network for Text Classification (AAAI 2015).
 
 - name: RNN for Text Classification
   i18n: rnn_text
   gh_user: roomylee
   repo: rnn-text-classification-tf
-  img: /static/assets/img/landing/jekyll.png
-  desc: This project is other's project. I use another request to get repo's information.
+  img: /static/assets/img/landing/tf.png
+  desc: Tensorflow implementation of RNN(Recurrent Neural Network) for sentiment analysis, one of the text classification problems.
 
 - name: CNN for Relation Extraction
   i18n: cnn_re
   gh_user: roomylee
   repo: cnn-relation-extraction
   img: /static/assets/img/landing/tf.png
-  desc: This project is other's project. I use another request to get repo's information.
+  desc: Tensorflow implementation of convolutional neural network for relation extraction challenge(SemEval-2010 Task 8).
 
 - name: Literature Mining of Bacteria-Disease Interaction
   i18n: literature_mining
   gh_user: roomylee
   repo: bim-miner
   img: /static/assets/img/landing/java.png
-  desc: This project is other's project. I use another request to get repo's information.
+  desc: Interation(relation) extraction between bacteria and disease from biomedical literatures via matching techniques based on POS & dependency tree information.
 
-- name: Politics based SNS Text Mining
+- name: Political Orientation based SNS Text Mining
   i18n: politics_mining
   url: http://ai.hanyang.ac.kr:50000/
   img: /static/assets/img/landing/flask.png
-  desc: This project is other's project. I use another request to get repo's information.
+  desc: Analysis of tweets posted by representative politicians of progressive and conservative parties in Korea.
 
 - name: TPE Search for Relation Extraction
   i18n: tpe
   gh_user: roomylee
   repo: tpe-search-for-relation-extraction
   img: /static/assets/img/landing/java.png
-  desc: This project is other's project. I use another request to get repo's information.
+  desc: Relation extraction via tree pattern matching based on TPE(Tree Pattern Expression), technique for tree matching.
 
 - name: Gaemigo
   i18n: gaemigo
   url: https://www.slideshare.net/roomylee/gaemigo
   img: /static/assets/img/landing/python.png
-  desc: This project is other's project. I use another request to get repo's information.
+  desc: Stock price prediction system via machine learing method such as XGBoost, Random Foreset, SVM etc.
 
-- name: SNS Mining & spatio-temporal Visualization
+- name: SNS Mining & Spatiotemporal Info Visualization
   i18n: sns_mining
-  gh_user: roomylee
-  repo: sns-mining
+  url: http://166.104.140.75:62000/Emotional_Analyzation/EA/main.html
   img: /static/assets/img/landing/twitter.png
-  desc: This project is other's project. I use another request to get repo's information.
+  desc: SNS(Twitter) data visualization for analyzing spatiotemporal distribution of social anxiety that is important sentiment in social science.
