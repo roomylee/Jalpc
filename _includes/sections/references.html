@@ -21,10 +21,14 @@
             <h4><span class="navy">{{ reference.last_name }}</span> {{ reference.first_name }}</h4>
             <p>{{ reference.desc }}</p>
             <ul class="list-inline social-icon">
-                <li><a href="{{ reference.website }}" target="blank"><i class="fa fa-link"></i></a>
+                {% if reference.website %}
+                <li style="margin-left: 6px;"><a href="{{ reference.website }}" target="blank"><i class="fa fa-link"></i></a>
                 </li>
-                <li><a href="mailto:{{ reference.email }}"><i class="fa fa-envelope-o"></i></a>
+                {% endif %}
+                {% if reference.email %}
+                <li style="margin-left: 5px;"><a href="mailto:{{ reference.email }}"><i class="fa fa-envelope-o"></i></a>
                 </li>
+                {% endif %}
             </ul>
         </div>
         </div>
