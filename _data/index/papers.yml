@@ -7,6 +7,7 @@
   year: 2019
   publish: SDM
   desc: Classifying semantic relations between entity pairs in sentences is an important task in Natural Language Processing (NLP). Most previous models for relation classification rely on the high-level lexical and syntatic features obtained by NLP tools such as WordNet, dependency parser, part-of-speech (POS) tagger, and named entity recognizers (NER). In addition, state-of-the-art neural models based on attention mechanisms do not fully utilize information of entity that may be the most crucial features for relation classification. To address these issues, we propose a novel end-to-end recurrent neural model which incorporates an entity-aware attention mechanism with a latent entity typing (LET) method. Our model not only utilizes entities and their latent types as features effectively but also is more interpretable by visualizing attention mechanisms applied to our model and results of LET. Experimental results on the SemEval-2010 Task 8, one of the most popular relation classification task, demonstrate that our model outperforms existing state-of-the-art models without any high-level features.
+  link: https://drive.google.com/file/d/1VmN-CR_IBluYMZm1lWRuKTxq0sGjMHFN/view
 
 - title: A Tool for Spatio-Temporal Analysis of Social Anxiety with Twitter Data
   i18n: sns_mining
@@ -14,6 +15,7 @@
   year: 2019
   publish: ACM SAC
   desc: In this paper, we present a tool for analyzing spatio-temporal distribution of social anxiety. Twitter, one of the most popular social network services, has been chosen as data source for analysis of social anxiety. Tweets (posted on the Twitter) contain various emotions and thus these individual emotions reflect social atmosphere and public opinion, which are often dependent on spatial and temporal factors. The reason why we choose anxiety among various emotions is that anxiety is very important emotion that is useful for observing and understanding social events of communities. We develop a machine learning based tool to analyze the changes of social atmosphere spatially and temporally. Our tool classifies whether each Tweet contains anxious content or not, and also estimates degree of Tweet anxiety. Furthermore, it also visualizes spatio-temporal distribution of anxiety as a form of web application, which is incorporated with physical map, word cloud, search engine and chart viewer. Our tool is applied to a big tweet data in South Korea to illustrate its usefulness for exploring social atmosphere and public opinion spatio-temporally.
+  link: https://drive.google.com/file/d/1wqZzWDBDYpSga7gNcBSi-T8B8J8NDgp1/view
 
 - title: 자가-주의집중 매커니즘을 통한 의미적 관계 분류 성능 및 해석가능성 개선 (Improving the Performance and Interpretability of Semantic Relation Classification with Self-Attention Mechanism)
   i18n: sns_mining
@@ -21,6 +23,7 @@
   year: 2018
   publish: KSC
   desc: 관계 분류는 문장에서 개체 쌍 간에 나타나는 의미적 관계를 분류하는 문제로써 자연어처리에서 중요한 과제이다. CNN과 RNN 계열의 딥러닝 모델들이 좋은 성능을 보이고 있지만, 이들은 모두 고정적인 단어 의 표현 벡터를 사용하기 때문에 문맥에 따라 의미와 관계가 변하는 단어의 의미를 학습하기 어렵다. 본 논문에서 우리는 자가-주의집중 매커니즘을 기반으로 하여 단어 간의 의미적 관계가 고려된 단어의 표현 벡터를 만드는 새로운 기법을 제안한다. 이 기법을 적용하여 SemEval-2010 Task 8 데이터 세트 기준 84.4%의 기존 모델을 능가하는 F1-score를 얻을 수 있었다. 또한 자가-주의집중 매커니즘의 시각화를 통해 모델이 주어진 문장을 어떻게 이해하고 있고 분류하는데 있어 어떤 단어를 주목하고 있는지를 해석할 수 있도록 하여 모델 해석가능성을 크게 향상시켰다. (In this paper, we propose a novel method to construct representation vectors of words based on a self-attention mechanism. The Previous models are improved by applying our method on the SemEval-2010 Task 8 dataset. In addition, visualization of the self-attention mechanism improved the model interpretability.)
+  link: https://drive.google.com/file/d/1wBbDjKLFW_d-3LDjME0SvevtTJDpoyS4/view
 
 - title: SNS data Visualization for analyzing spatial-temporal distribution of social anxiety
   i18n: sns_mining
@@ -28,3 +31,4 @@
   year: 2016
   publish: EDB
   desc: In this paper, we describe SNS (Social Networking Service, especially Twitter) data visualization for analyzing spatial-temporal distribution of social anxiety. We prepare train data collected from Twitter by using Open API(twitter4j), which represent whether the person who post Tweet, posting message in Twitter, is anxious or not. From these data, dictionary explaining frequency of words is constructed by using KOMORAN which is Korean morphological analysis library. And we design classifier based on Naive Bayes method and estimate degree of anxiety of Tweet which include spatial-temporal information. We visualize these estimations as the form of web application, which are represented as a map and word cloud. As the spatial-temporal data are visualized in this way, we can analyze public opinion about a variety of social events.
+  link: https://drive.google.com/file/d/150ObdMAddFPs_wS2MpTUXJ2HyAif8Ni7/view
