@@ -20,7 +20,7 @@ author: # change following line to your infomation.
   facebook_username: roomylee  # Leave blank if you don't have now
   twitter_username: # Leave blank if you don't have now
   email: roomylee@naver.com  # Leave blank if you don't have now
-  cv: http://roomylee.github.io  # An online CV can be printed as PDF, leave blank if you don't have now
+  cv: https://drive.google.com/open?id=16cJbc5KK_xFcJ9If_86pbyTc0ugv6Erf  # An online CV can be printed as PDF, leave blank if you don't have now
   # skill icons are on avatar's left and right side. Reference urls are http://fontawesome.io/ and http://fizzed.com/oss/font-mfizz
   skill_icon1:
     - name: fa fa-graduation-cap
