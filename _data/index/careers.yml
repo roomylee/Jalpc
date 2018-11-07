@@ -2,44 +2,30 @@
 # if you don't have language feature(language.yml is empty), ignore "i18n" items
 
 - name:
-    detail: Started M.Sc
+    detail: AI Lab, Hanyang University
     i18n: ai_lab
   desc:
-    detail: I started my M.Sc in Artificial Intelligence at the Hanyang University, Seoul, Korea. I'll be working on Text Mining & Relation Extraction.
-    i18n: company_a_desc
-  date:
-    detail: Mar. 2017 - Present
-    i18n: company_a_date
-  job:
-    detail: M.Sc Student
-    i18n: company_a_job
-  icon: fa-plus-square
-
-- name:
-    detail: Bachelor's Degree
-    i18n: hanyang_university
-  desc:
-    detail: I received the B.Sc in Computer Science & Engineering at Hanyang University.
-    i18n: company_b_desc
-  date:
-    detail: Feb. 2017
-    i18n: company_b_date
-  job:
-    detail: Graduation
-    i18n: company_b_job
-  icon: fa-plus-square
-
-- name:
-    detail: AI Lab @ Hanyang University
-    i18n: ai_lab
-  desc:
-    detail: I started researching Artificial Intelligence and Natural Language Processing in the AI Lab at Hnaynag University.
+    detail: Research Natural Language Processing, Text Mining and Relation Extraction at Artificial Intelligence Lab, Hanyang University, Korea.
     i18n: company_a_desc
   date:
     detail: Dec. 2015 - Present
     i18n: company_a_date
   job:
-    detail: AI / NLP Researcher
+    detail: Machine Learning Researcher
+    i18n: company_a_job
+  icon: fa-plus-square
+
+- name:
+    detail: Clova AI Research, Naver Corp.
+    i18n: ai_lab
+  desc:
+    detail: Developed text classifier to recommend the stickers in the LINE messenger. Implemented the transformer (Vaswani et al., 2017) and developed transformer-based language model for text classification.
+    i18n: company_a_desc
+  date:
+    detail: Jul. 2018 - Aug. 2018
+    i18n: company_a_date
+  job:
+    detail: Machine Learning Researcher
     i18n: company_a_job
   icon: fa-plus-square
 
@@ -47,7 +33,7 @@
     detail: Software Maestro
     i18n: software_maestro
   desc:
-    detail: I worked on software development through a program called Software Maestro for the cultivation of start-up talents.
+    detail: Worked on software development through a program called Software Maestro for the cultivation of start-up talents.
     i18n: company_a_desc
   date:
     detail: Jul. 2016 - Nov. 2016
@@ -67,7 +53,7 @@
     detail: Dec. 2015 - Aug. 2016
     i18n: company_a_date
   job:
-    detail: Teacher
+    detail: Programming Teacher
     i18n: company_a_job
   icon: fa-plus-square
 
