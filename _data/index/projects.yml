@@ -1,12 +1,26 @@
 # projects section data
 # If you don't have language feature(language.yml is empty), ignore "i18n" items
 # Suggest projects' img be located at '/static/assets/img/landing', and edit following img items.
-- name: RCNN for Text Classification
+- name: NLP Progress
   i18n: rcnn_text
+  gh_user: sebastianruder
+  repo: NLP-progress
+  img: /static/assets/img/landing/avatar.jpg
+  desc: Repository to track the progress in NLP, including the datasets and the current state-of-the-art for the most common NLP tasks. https://nlpprogress.com/
+
+- name: CNN for Relation Extraction
+  i18n: cnn_re
   gh_user: roomylee
-  repo: rcnn-text-classification
+  repo: cnn-relation-extraction
   img: /static/assets/img/landing/tf.png
-  desc: Tensorflow implementation of Recurrent Convolutional Neural Network for Text Classification (AAAI 2015).
+  desc: Tensorflow implementation of convolutional neural network for relation extraction challenge(SemEval-2010 Task 8).
+
+- name: Attention-based BiLSTM for Relation Extraction
+  i18n: rnn_text
+  gh_user: SeoSangwoo
+  repo: Attention-Based-BiLSTM-relation-extraction
+  img: /static/assets/img/landing/tf.png
+  desc: Tensorflow Implementation of "Attention-Based Bidirectional Long Short-Term Memory Networks for Relation Classification" (ACL 2016)
 
 - name: RNN for Text Classification
   i18n: rnn_text
@@ -15,12 +29,19 @@
   img: /static/assets/img/landing/tf.png
   desc: Tensorflow implementation of RNN(Recurrent Neural Network) for sentiment analysis, one of the text classification problems.
 
-- name: CNN for Relation Extraction
-  i18n: cnn_re
+- name: Awesome Relation Extraction
+  i18n: rnn_text
   gh_user: roomylee
-  repo: cnn-relation-extraction
+  repo: awesome-relation-extraction
+  img: /static/assets/img/landing/awesome.png
+  desc: 📖 A curated list of awesome resources dedicated to Relation Extraction, one of the most important tasks in Natural Language Processing (NLP).
+
+- name: RCNN for Text Classification
+  i18n: rcnn_text
+  gh_user: roomylee
+  repo: rcnn-text-classification
   img: /static/assets/img/landing/tf.png
-  desc: Tensorflow implementation of convolutional neural network for relation extraction challenge(SemEval-2010 Task 8).
+  desc: Tensorflow implementation of Recurrent Convolutional Neural Network for Text Classification (AAAI 2015).
 
 - name: Literature Mining of Bacteria-Disease Interaction
   i18n: literature_mining
